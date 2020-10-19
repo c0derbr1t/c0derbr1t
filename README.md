@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 [My Portfolio](https://brittaniluce.me/)  
 
 -----  
------
 
 <img
     src="img/BDivineLogo.png"
